@@ -13,15 +13,21 @@ Project developed to automate a process in the company. This is just an overview
 - Git and Github
 
 ## Challenges
-Some of the challenges and problems I overcame with this project were, user basic authentication, which was made using the username and password, client side validation, which was handled with regular expressions, multiple requests using async and axios.
+Some of the challenges and problems I overcame with this project:
+*  User basic authentication, which was made using the username and password.
+* Client side validation, which was handled with regular expressions.
+* Multiple requests using async and axios.
+* Modular JavaScript. Ex: [ApiHandler Module](script.js).
+* All the data used in this overview is fictional.
+
 
 > Login Screen
 
-![preview](./assets/login-img.PNG)
+![preview](./assets/login-img.png)
 
-> Main and result page
+> Main and result pages
 
-![preview](./assets/main.PNG)
+![preview](./assets/main.png)
 
 
 ## ✉ Contact
